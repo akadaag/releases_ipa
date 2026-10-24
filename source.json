@@ -11,11 +11,11 @@
       "iconURL": "https://raw.githubusercontent.com/akadaag/releases_ipa/main/Icon-1024.png",
       "versions": [
         {
-          "version": "0.1.1012",
-          "date": "2026-10-24T08:52:45Z",
-          "localizedDescription": "Build 0.1.1012",
-          "downloadURL": "https://github.com/akadaag/releases_ipa/releases/download/build-13/NinjaVolleyRebuild.ipa",
-          "size": 127132526
+          "version": "0.1.1013",
+          "date": "2026-10-24T19:18:47Z",
+          "localizedDescription": "Build 0.1.1013",
+          "downloadURL": "https://github.com/akadaag/releases_ipa/releases/download/build-14/NinjaVolleyRebuild.ipa",
+          "size": 131965619
         }
       ]
     }
